@@ -1,0 +1,72 @@
+h1
+{
+    	color:white;
+	font-family:Monotype Corsiva;
+	font-style: italic;
+    	text-align:center;
+	font-size: 40px;
+    	width:200 px;
+    	border:white;
+    	padding: 30px;
+	margin-top: 300px;
+    	margin-bottom: 50px;
+    	margin-right: 350px;
+    	margin-left: 350px;
+    	cell-color: orange;
+	
+}
+ul
+{
+	margin:-50px;
+	padding:0;
+}
+h2
+{
+	
+	color:white;
+	text-align:center;
+	font-family:Monotype Corsiva;
+}
+ul .b 
+{
+	opacity:0.8;
+    	list-style-type: none;
+    	margin-right: 20px;
+	margin-left:882px;
+    	padding: 0;
+    	overflow: hidden;
+    	background-color: black;
+}
+li{
+	float: right;
+	font-family:Monotype Corsiva;
+	font-size:20px;
+	color:white;
+}
+.a 
+{
+    	display: block;
+    	width: 80px;
+	background-color:green;
+	padding:14px 16px;   
+	color:white;
+
+}
+li.a:hover 
+{
+	opacity:0.35;
+    	background-color: white;
+    	color: red;
+}
+p
+{ 
+	color:yellow;
+	font-family:arial;sans;
+	font-size:30px;
+	text-align:center;
+	
+}
+body
+{
+	background-image: url("night-sweet-dreams-reflaction-wallpapers.jpg");
+}
